@@ -1,4 +1,3 @@
-# Test
 Content
 What is the difference between push, pull, and fetch?
 git push - sent changes from a local branch to a remote repo
